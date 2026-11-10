@@ -1,0 +1,14 @@
+# Build output
+/bin/
+/dist/
+/mdv
+/mde
+/mdv.exe
+/mde.exe
+
+# Test output
+/coverage.out
+
+# Editor files
+*.swp
+*~
